@@ -100,18 +100,6 @@ print  """
 \033[1;94m•◈••◈••◈•\033[1;95m╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝  \033[1;94m•◈••◈••◈•
 
 
-\033[1;94m•◈••◈••◈••◈•\033[1;94m••◈••◈••◈••◈••◈••◈••◈••◈•\033[1;94m•◈••◈••◈••◈•
-\033[1;91m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;96mRanaAli\033[1;91m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"""
-jalan('\033[1;96m▬
-jalan("\033[1;92mHAMMAD
-jalan('\033[1;96m
-jalan('\033[1;96m
-jalan("\033[1;97mADEEB RANA
-jalan("\033[1;96m60%    \033[1;91mLock Id ID Clone")
-jalan('\033[1;93mNADEEM
-jalan('\033[1;96m
-jalan('\033[1;96mIKRAM
-jalan('\033[1;97m
 print "\033[1;91m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;96mRana.Adeeb\033[1;91m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 
 CorrectUsername = "ali"
@@ -141,7 +129,7 @@ def login():
 		os.system('clear')
 		print logo
 		print 42*"\033[1;96m="
-		print('\033[1;96m[☆] \x1b[1;96m+--+--+-++ \x1b[1;96m[☆]' )
+		print('\033[1;96m[☆] \x1b[1;96mLogin with facebook\x1b[1;96m[☆]' )
 		id = raw_input('\033[1;96m[+] \x1b[1;96mEmail \x1b[1;91m: \x1b[1;92m')
 		pwd = raw_input('\033[1;96m[+] \x1b[1;96mPass \x1b[1;91m: \x1b[1;92m')
 		tik()
